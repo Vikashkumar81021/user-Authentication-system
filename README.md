@@ -37,7 +37,7 @@ This project demonstrates complete authentication flow including user registrati
 ```
 src/
  ├── app.js
- ├── server.js
+ ├── index.js
  ├── controllers/
  ├── models/
  ├── routes/
